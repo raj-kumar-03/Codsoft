@@ -1,2 +1,0 @@
-*.png filter=lfs diff=lfs merge=lfs -text
-codsoft_ai_3/image[[:space:]]captioning/temp_52338778943_9704c200b4_o.png filter=lfs diff=lfs merge=lfs -text
